@@ -161,4 +161,6 @@ void loop() {
             }
         }
     }
+
+    delay(100); // for power saving
 }
